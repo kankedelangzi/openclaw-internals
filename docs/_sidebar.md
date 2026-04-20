@@ -1,0 +1,6 @@
+- [前言](README.md)
+- [第一章：架构总览](chapters/01-architecture.md)
+- [第二章：消息流](chapters/02-message-flow.md)
+- [第三章：插件机制](chapters/03-plugin-system.md)
+- [第四章：Session管理](chapters/04-session.md)
+- [第五章：Config系统](chapters/05-config.md)
