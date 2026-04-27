@@ -24,7 +24,7 @@
 
 ---
 
-## 第3章：Hook系统（约4000字）
+## 第3章：Hook系统（约4000字）✅ 已完成
 - 3.1 Hook全景（6大Hook类型：Start/Stop/Auth/Message/ToolUse/PromptSubmit）
 - 3.2 Hook执行时机与顺序
 - 3.3 Hook注册机制（Plugin声明式、运行时动态）
